@@ -9,10 +9,10 @@ body {
 	box-sizing: border-box;
 }
 .person{
-	padding-right: 28px;
+	padding-right: 30px;
 	
-	text-align:justify;
-	color: #0067ff;
+	/* text-align:start; */
+	/* color: #0067ff; */
 }
 
 td > a{
