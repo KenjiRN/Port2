@@ -9,8 +9,8 @@ body {
 	box-sizing: border-box;
 }
 .person{
-	padding-right: 30px;
-	
+	padding-right: 20px;
+	font-size: 28px;
 	/* text-align:start; */
 	/* color: #0067ff; */
 }
